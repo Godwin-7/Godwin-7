@@ -30,10 +30,8 @@
 
 ---
 
-## ⚒️ **Tech Stack I Work With:**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,flask,fastapi,mongodb,tailwind,java,sql,git,github" />
-</div>
+⚒️ Tech Stack I Work With:
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,flask,fastapi,mongodb,tailwind,java,sql,git,github" height="50" /> </div>
 
 ---
 
