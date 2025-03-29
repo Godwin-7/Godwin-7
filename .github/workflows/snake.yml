@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Godwin-7 # Correct GitHub username
+          github_user_name: Godwin-7 # Use your GitHub username correctly!
           svg_out_path: dist/github-contribution-grid-snake.svg
       - name: Push Contribution Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
