@@ -1,31 +1,39 @@
 name: Generate Contribution Snake
 
 on:
+  # Run the workflow every 24 hours
   schedule:
-    - cron: "0 0 * * *" # Run every day at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs at midnight daily
+  workflow_dispatch:  # Allows manual run
+
+permissions:
+  contents: write  # Allows pushing to the repository
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
+      # Step 2: Generate Contribution Snake
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Godwin-7
+          github_user_name: Godwin-7  # Your GitHub username
           outputs: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Step 3: Ensure the `dist` directory exists
       - name: Ensure dist Directory Exists
-        run: mkdir -p dist # Ensure dist directory is created
+        run: mkdir -p dist
 
+      # Step 4: Push to output branch
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: output  # Push snake to 'output' branch
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
