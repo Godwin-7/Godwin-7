@@ -1,20 +1,61 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yo+There!+😎;+I'm+Godwin+Wilfred+Raj!;+Welcome+to+My+Digital+Lair!+🔥" /> </h1> <h3 align="center">Naughty, Funny, But Brilliant! 😜 | I Behave Like a Fool, Think Like an Expert 🤯</h3> <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" /> </p>
-<div align="center"> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/your-profile" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://yourportfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ionic&logoColor=white" /> </a> <a href="https://twitter.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </div>
-🤹‍♂️ About Me:
-🎓 Master of Chaos and Code – I juggle Management, Data Science, AI, Cybersecurity, Web Dev, and Full Stack like a boss!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Godwin+Wilfred+Raj+A.;+Management+%26+Data+Science+Guru!;" />
+</h1>
 
-🧠 Think Big, Code Bigger! – I turn caffeine into jaw-dropping, bug-free magic! ☕💻
+<h3 align="center">Master of Management, AI, Web Dev, and Cybersecurity! 🕶️</h3>
+<br />
 
-🧩 Exploring: Advanced AI Models, FastAPI, and Cyber Defense like Sherlock Holmes 🔍
+<div align="center">
+  <a href="mailto:godwin7@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/godwin-7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://godwin7.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
-🕹️ My Playground: MERN, Python, SQL, Flask, Tailwind, and everything that makes the internet go BOOM!
+---
 
-⚡️ Superpower: Making the impossible look effortless!
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<h2 align="center">⚡️ Tech Arsenal ⚡️</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,nodejs,express,mongodb,flask,fastapi,sql,git,github,vscode,docker" /> </p>
-<h2 align="center">🚀 Full Stack Jedi Arsenal 🛠️</h2> <br/> <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" /> </div>
-<h2 align="center">📊 GitHub Stats & Beyond 🚀</h2> <div align="center"> <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=GodwinWRaj&theme=react&border_radius=10" alt="streak stats" /> <img width=390 src="https://github-readme-stats.vercel.app/api?username=GodwinWRaj&show_icons=true&theme=react&border_radius=10" /> <br/> <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodwinWRaj&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" /> </div>
-<h2 align="center">🐍 Contribution Snake 🐍</h2> <p align="center"> <img src="https://raw.githubusercontent.com/Godwin-7/Godwin-7/output/github-contribution-grid-snake.svg" /> </p>
-<h2 align="center">🎮 When I’m Not Coding…</h2> <p align="center"> 🕹️ Gaming | 🎥 Watching Sci-Fi | 🎧 Listening to Lofi | 🎨 Doodling Crazy Ideas </p>
-<h2 align="center">💬 Wanna Collaborate?</h2> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Drop+Me+a+Message!+🤝;+Let's+Build+Awesome+Stuff!+🚀" /> </p>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Dropping+By!+🚀;+Ready+to+Collab?+Let's+Go!;Catch+Me+if+You+Can!+✌️" /> </h3>
+### 😎 **About Me:**
+- 🚀 Currently working on **Machine Learning, Web Dev, and AI Projects.**
+- 📚 Learning **ReactJS, NLP, OpenCV, and FastAPI.**
+- 💡 Ask me about **Data Science, AI, Web Development, and Cybersecurity.**
+- ⚡ Favorite Line: `console.log("Godwin never sleeps! 🚀")`
+- 📫 How to reach me: **godwin7@example.com**
+
+---
+
+## ⚒️ **Tech Stack I Work With:**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,flask,fastapi,mongodb,tailwind,java,sql,git,github" />
+</div>
+
+---
+
+## 📊 **GitHub Stats:**
+<div align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Godwin-7&theme=react&border_radius=10" />
+  <br />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Godwin-7&show_icons=true&theme=react&count_private=true" />
+  <br />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-7&layout=compact&theme=react" />
+</div>
+
+---
+
+## 🐍 **Contribution Snake:**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Godwin-7/Godwin-7/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+collaborate+and+innovate!;🚀+Cheers!;">
+</h3>
+
