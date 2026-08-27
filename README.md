@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+%F0%9F%91%8B;I'm+Godwin+Wilfred+Raj+A.;Management+%26+Data+Science+Guru!" alt="Typing SVG" />
 
-### Master of Management, AI, Web Dev &amp; Cybersecurity 🕶️
+### Master of ML, DS, AI, Web Dev &amp; Cybersecurity 🕶️
 
 <p>
   <a href="mailto:godwin7@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
