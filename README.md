@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Godwin-7&show_icons=true&theme=react&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-7&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Godwin-7&show_icons=true&theme=react&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Godwin-7&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="top languages" />
 </div>
 
 <div align="center">
